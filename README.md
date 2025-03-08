@@ -1,1 +1,1 @@
-I had an idea to make scuffed varadics a while back, and a YouTube comment made me want to give the idea a try.
+I had an idea to make scuffed varadics a while back, and a YouTube comment made me want to give the idea a try.  It doesn't actually work unfortunately, the compiler just complains about conflicting functions names.
